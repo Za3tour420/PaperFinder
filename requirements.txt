@@ -1,0 +1,14 @@
+fastapi[all]
+uvicorn
+openalexapi
+arxiv
+faiss-cpu
+chromadb
+transformers
+accelerate
+sentence-transformers
+httpx
+pydantic
+spacy
+purl
+jinja2
